@@ -69,23 +69,23 @@ Negative messages are blocked to prevent harmful or unsafe content.
 
 ## 💻 Installation & Setup
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/chandanashetty31/Trifecta.git
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd Trifecta
 
-# Navigate to frontend
+## Navigate to frontend
 cd /frontend/my-app
 
-# start the app
+## start the app
 npm start
 
-# Navigate to backend
+## Navigate to backend
 cd backend
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run the Flask application
+## Run the Flask application
 python app.py
