@@ -1,0 +1,16 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-bcrypt
+flask-jwt-extended
+vaderSentiment
+pandas
+python-dotenv
+supabase
+psycopg2-binary
+scipy
+cryptography
+stegano
+web3               
+imagehash          
+Pillow  
